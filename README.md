@@ -1,4 +1,4 @@
-h1 align="center">Hey 👋, I'm kiruthiga sri</h1>
+<h1 align="center">Hey 👋, I'm kiruthiga sri</h1>
 <h3 align="center">I am a frontend Web Developer, while facilitating the world with User Experience with my Design Thinking Skills and Enthusiast about AI. 😉 📚 I’m currently learning Data Structures and Algorithm 📚 I want to learn Backend 👯 I’m looking to collaborate for a Web3 project.</h3>
 
 <h3 align="left">Connect with me:</h3>
