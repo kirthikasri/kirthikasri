@@ -2,7 +2,7 @@
 <h3 align="center">I am a frontend Web Developer, while facilitating the world with User Experience with my Design Thinking Skills and Enthusiast about AI. </h3>
 <h3> 📚 I’m currently learning Data Structures and Algorithm.</h3>
 <h3>📚 I want to learn Backend </h3>
-<h3>👯 I’m looking to collaborate for a Web3 project.</h3>
+<h3>👯 I’m looking to collaborate for a Web2 project.</h3>
 <hr>
 
 <h3 align="left">MY TECH STACK :</h3>
